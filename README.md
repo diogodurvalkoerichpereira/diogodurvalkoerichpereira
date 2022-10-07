@@ -1,4 +1,4 @@
-## Olá meu Nome é Diogo!
+##Diogo Durval Koerich Pereira!
 <div align="center">
   <a href="https://github.com/diogodurvalkoerichpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogodurvalkoerichpereira&show_icons=blue&theme=blue&include_all_commits=true&count_private=true"/>
