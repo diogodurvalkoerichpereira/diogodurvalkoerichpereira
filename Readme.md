@@ -1,7 +1,7 @@
 
 <h1>
 Pós graduando MBA em Arquitetura de Software e Soluções |
-Bacharel em Ciências Contábeis - GIT | .NET | ASP.NET | C# | HTML | CSS | JS | Entity Framework | SQL SERVER | Bootstrap |. Conhecimentos em PHP e MYSQL</h1>
+Bacharel em Ciências Contábeis - GIT | .NET | ASP.NET | C# | HTML | CSS | JS | Entity Framework | SQL SERVER | Bootstrap | Conhecimentos em PHP e MYSQL</h1>
 
 <div align="center">
   <a href="https://github.com/diogodurvalkoerichpereira">
